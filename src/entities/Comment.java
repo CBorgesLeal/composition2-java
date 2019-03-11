@@ -8,7 +8,6 @@ public class Comment {
 	}
 
 	public Comment(String text) {
-		super();
 		this.text = text;
 	}
 
@@ -19,6 +18,5 @@ public class Comment {
 	public void setText(String text) {
 		this.text = text;
 	}
-	
 	
 }
